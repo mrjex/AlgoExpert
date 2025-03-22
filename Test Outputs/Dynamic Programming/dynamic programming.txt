@@ -1,0 +1,63 @@
+
+
+ #####################   levenshtein-distance.py   ##################### 
+
+
+
+
+levensthein-distance.py:
+2
+1
+4
+
+
+ #####################   max-subset-sum-no-adjacent.py   ##################### 
+
+
+
+
+max-subset-sum-no-adjacent.py:
+330
+0
+207
+675
+
+
+ #####################   max-sum-increasing-subsequence.py   ##################### 
+
+
+
+
+max-sum-increasing-subsequence.py:
+[110, [10, 20, 30, 50]]
+[80, [10, 70]]
+
+
+ #####################   min-number-coins-change.py   ##################### 
+
+
+
+
+min-number-coins-change.py
+3
+1
+4
+10
+14
+2
+5
+
+
+ #####################   traverse-graph.py   ##################### 
+
+
+
+
+traverse-graph.py:
+10
+10
+1
+6
+2
+36
+5

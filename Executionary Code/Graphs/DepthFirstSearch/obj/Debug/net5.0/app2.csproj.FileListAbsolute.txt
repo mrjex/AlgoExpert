@@ -1,0 +1,32 @@
+C:\Users\joel0\Documents\Algoexpert\app2\bin\Debug\net5.0\app2.exe
+C:\Users\joel0\Documents\Algoexpert\app2\bin\Debug\net5.0\app2.deps.json
+C:\Users\joel0\Documents\Algoexpert\app2\bin\Debug\net5.0\app2.runtimeconfig.json
+C:\Users\joel0\Documents\Algoexpert\app2\bin\Debug\net5.0\app2.runtimeconfig.dev.json
+C:\Users\joel0\Documents\Algoexpert\app2\bin\Debug\net5.0\app2.dll
+C:\Users\joel0\Documents\Algoexpert\app2\bin\Debug\net5.0\ref\app2.dll
+C:\Users\joel0\Documents\Algoexpert\app2\bin\Debug\net5.0\app2.pdb
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.csprojAssemblyReference.cache
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.AssemblyInfoInputs.cache
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.AssemblyInfo.cs
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.csproj.CoreCompileInputs.cache
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.dll
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\ref\app2.dll
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.pdb
+C:\Users\joel0\Documents\Algoexpert\app2\obj\Debug\net5.0\app2.genruntimeconfig.cache
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\bin\Debug\net5.0\app2.exe
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\bin\Debug\net5.0\app2.deps.json
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\bin\Debug\net5.0\app2.runtimeconfig.json
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\bin\Debug\net5.0\app2.runtimeconfig.dev.json
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\bin\Debug\net5.0\app2.dll
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\bin\Debug\net5.0\ref\app2.dll
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\bin\Debug\net5.0\app2.pdb
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.csprojAssemblyReference.cache
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.AssemblyInfoInputs.cache
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.AssemblyInfo.cs
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.csproj.CoreCompileInputs.cache
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.dll
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\ref\app2.dll
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.pdb
+C:\Users\joel0\OneDrive\Skrivbord\mrjex\Problem Solving\AlgoExpert\Executionary Code\Graphs\DepthFirstSearch\obj\Debug\net5.0\app2.genruntimeconfig.cache

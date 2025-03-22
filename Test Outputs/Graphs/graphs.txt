@@ -1,0 +1,79 @@
+
+
+ #####################   BreadthFirstSearch.csproj   ##################### 
+
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+
+
+ #####################   DepthFirstSearch.csproj   ##################### 
+
+
+B
+E
+F
+I
+J
+
+
+ #####################   SingleCycleCheck.csproj   ##################### 
+
+
+
+OUTPUT TESTS:
+True = True
+True = True
+False = False
+False = False
+
+
+ #####################   topological-sort.py   ##################### 
+
+
+OUTPUT:[4, 1, 3, 2]
+
+
+ #####################   youngest-common-ancestor.js   ##################### 
+
+
+Ancestor {
+  name: 'B',
+  ancestor: Ancestor { name: 'A', ancestor: null }
+}
+Ancestor {
+  name: 'B',
+  ancestor: Ancestor { name: 'A', ancestor: null }
+}
+Ancestor {
+  name: 'B',
+  ancestor: Ancestor { name: 'A', ancestor: null }
+}
+Ancestor {
+  name: 'D',
+  ancestor: Ancestor {
+    name: 'B',
+    ancestor: Ancestor { name: 'A', ancestor: null }
+  }
+}
+Ancestor {
+  name: 'D',
+  ancestor: Ancestor {
+    name: 'B',
+    ancestor: Ancestor { name: 'A', ancestor: null }
+  }
+}
+Ancestor {
+  name: 'C',
+  ancestor: Ancestor { name: 'A', ancestor: null }
+}
+Ancestor { name: 'A', ancestor: null }

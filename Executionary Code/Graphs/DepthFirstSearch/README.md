@@ -1,0 +1,38 @@
+# Depth First Search
+
+
+BFS: Wide
+
+DFS: Deep
+
+
+For every node, we add it to the final array, and for every of its child
+nodes, we call the DFS() function
+
+
+V = Vertices / Vertex / Node
+E = Edges / The connected lines
+
+Time complexity: O(V + E)
+ - We include V since we traverse every vertex
+ - We include E since the number of edges from each vertex represents
+   its number of child nodes, which we will need to check
+
+
+Space complexity: O(V)
+ - We store an array holding V nodes
+ - The inherent DFS algorithm adds frames to the callstack,
+   where V is the maxiumum peak of frames. Each recursive function
+   gets resolved once all of its children have performed their frames.
+
+The extreme space complexity case is where we have a straight-line-looking
+graph where each node only has one child. This means that the root/initial
+node's recursive frame on the call stack won't be resolved until the entire
+algorithm has completed. In other words, at most V frames on the call stack
+resulting in O(v) space complexity.
+
+
+
+Terminology:
+ * As we go deeper and deeper in each branch, we keep adding
+   recusrive frames to the call stack
