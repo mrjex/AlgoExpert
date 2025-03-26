@@ -202,12 +202,14 @@ In 2024, I developed a Bash automation system to streamline testing of all imple
 
 ### Test Automation in Action
 
-![run-demo](run.mp4)
+[![AlgoExpert Testing Framework - Demo](https://img.youtube.com/vi/TenIHvCpTzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TenIHvCpTzM)
+
 *Automated test script execution*
 
 The generated folder structure maintains perfect synchronization with the source code:
 
 ![run-pic](run.PNG)
+
 *Generated test output directory structure*
 
 ## 🚀 Running the Code
