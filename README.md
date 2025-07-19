@@ -22,8 +22,7 @@
 
 ## Overview
 
-This repository documents my algorithmic journey, showcasing implementations of various data structures and algorithms. Initially developed in Summer 2022 to refine my problem-solving skills, this collection has grown to encompass a wide range of computational challenges across multiple programming languages.
-
+This repository documents my algorithmic journey, showcasing implementations of various data structures and algorithms. Initially developed in Summer 2022 to refine my problem-solving skills in Python, this collection has grown to include multiple data structures across further programming languages.
 
 
 ## Repository Structure
