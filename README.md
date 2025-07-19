@@ -14,11 +14,9 @@
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Repository Structure](#repository-structure)
+  - [Running the Code](#running-the-code)
   - [Automated Testing](#automated-testing)
     - [Test Automation in Action](#test-automation-in-action)
-  - [Running the Code](#running-the-code)
-    - [Prerequisites](#prerequisites)
-    - [Execution Steps](#execution-steps)
 
 ## Overview
 
@@ -44,6 +42,24 @@ AlgoExpert/
 ```
 
 
+## Running the Code
+
+**Prerequisites:** *Python 3.x*, *Node.js*, *.NET SDK* and *Bash/Shell environment*
+
+1. Clone repository
+2. Navigate to root directory
+3. Make script executable:
+   ```bash
+   chmod +x run.sh
+   ```
+4. Execute automation script:
+   ```bash
+   ./run.sh
+   ```
+5. Review test results in `/Test Outputs`
+
+
+
 ## Automated Testing
 
 In 2024, I developed a Bash automation system to streamline testing of all implementations. The `run.sh` script:
@@ -64,31 +80,3 @@ The generated folder structure maintains perfect synchronization with the source
 ![run-pic](run.PNG)
 
 *Generated test output directory structure*
-
-## Running the Code
-
-### Prerequisites
-
-- Python 3.x
-- Node.js
-- .NET SDK (for C# files)
-- Bash shell environment
-
-### Execution Steps
-
-1. Clone this repository
-2. Navigate to the repository root
-3. Make the script executable:
-   ```bash
-   chmod +x run.sh
-   ```
-4. Execute the automation script:
-   ```bash
-   ./run.sh
-   ```
-5. Review test results in the `/Test Outputs` directory
-
-
----
-
-*Developed by Joel Mattsson*
